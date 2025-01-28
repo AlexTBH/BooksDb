@@ -1,0 +1,16 @@
+# Ignore Visual Studio and VS Code directories
+.vs/
+.vscode/
+
+# Ignore build artifacts and compiled files
+bin/
+obj/
+
+# Ignore sensitive files
+appsettings.json
+appsettings.Development.json
+
+# Other temporary files
+*.user
+*.log
+*.tmp
