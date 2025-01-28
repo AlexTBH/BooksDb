@@ -14,3 +14,6 @@ appsettings.Development.json
 *.user
 *.log
 *.tmp
+
+# Ignore sensitive configuration files
+BooksDb/appsettings.Azure.json
